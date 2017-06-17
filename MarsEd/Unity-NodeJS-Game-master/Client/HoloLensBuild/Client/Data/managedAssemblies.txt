@@ -1,0 +1,9 @@
+Assembly-CSharp.dll
+nunit.framework.dll
+UnityEngine.UI.dll
+UnityEngine.HoloLens.dll
+SocketIoClientDotNet.dll
+UnityEngine.Networking.dll
+Newtonsoft.Json.dll
+UnityEngine.VR.dll
+EngineIoClientDotNet.dll

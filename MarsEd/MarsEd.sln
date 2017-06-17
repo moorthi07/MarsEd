@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarsEd", "Assembly-CSharp.csproj", "{901C82CD-9DCC-4902-798C-2E2974EF66C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarsEd", "Assembly-CSharp-Editor.csproj", "{F53045EB-9843-F766-B166-FB01C1EAA52C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{901C82CD-9DCC-4902-798C-2E2974EF66C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{901C82CD-9DCC-4902-798C-2E2974EF66C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{901C82CD-9DCC-4902-798C-2E2974EF66C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{901C82CD-9DCC-4902-798C-2E2974EF66C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F53045EB-9843-F766-B166-FB01C1EAA52C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F53045EB-9843-F766-B166-FB01C1EAA52C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F53045EB-9843-F766-B166-FB01C1EAA52C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F53045EB-9843-F766-B166-FB01C1EAA52C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
